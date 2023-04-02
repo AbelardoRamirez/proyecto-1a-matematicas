@@ -1,6 +1,6 @@
 {
   "name": "proyecto-1a-matematicas-byhack5",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Proyecto de matematicas sencillo para aprender javascript y subirlo a npm",
   "main": "index.js",
   "scripts": {
