@@ -1,0 +1,29 @@
+{
+  "name": "proyecto-1a-matematicas",
+  "version": "1.0.0",
+  "description": "Proyecto de matematicas sencillo para aprender javascript y subirlo a npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbelardoRamirez/proyecto-1a-matematicas.git"
+  },
+  "keywords": [
+    "Math",
+    "Mathematics",
+    "Matematicas",
+    "Suma",
+    "Resta",
+    "Division",
+    "Multiplicacion",
+    "Basico"
+  ],
+  "author": "Jesus Abelardo Ramirez Zambrano. <ja.ramirez.zambrano@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AbelardoRamirez/proyecto-1a-matematicas/issues"
+  },
+  "homepage": "https://github.com/AbelardoRamirez/proyecto-1a-matematicas#readme"
+}
